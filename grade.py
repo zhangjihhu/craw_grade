@@ -57,8 +57,8 @@ def format_grade():
 def mail(grade):
     ret = True
     # 发件人邮箱账号和密码
-    my_sender = '1325626881@qq.com'
-    my_pass = 'ojppjivbnzmmibcb'
+    my_sender = '****@qq.com'
+    my_pass = '********'
     # 收件人邮箱账号
     my_user = '1325626881@qq.com'
     try:
